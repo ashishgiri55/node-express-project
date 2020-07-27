@@ -1,0 +1,8 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "my first node and express app",
+  "main": "server.js",
+  "author": "ashish",
+  "license": "MIT"
+}
